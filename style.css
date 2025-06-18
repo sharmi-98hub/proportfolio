@@ -1,0 +1,23 @@
+.hero-section{
+           padding: 100px 0;
+          
+        }
+body{
+   background-image: url(https://www.bitdegree.org/learn/storage/media/images/57bb1705-3ac9-41e3-9e97-37d4ee5771ac.o.jpg);
+   color: aliceblue;
+}
+#home{
+   height: 100vh;
+   width: 100%;
+   font-family:'Gill Sans';
+}
+/*.container{
+   display: flex;
+   flex-wrap: wrap;
+  
+}*/
+#about{
+   height: 100vh;
+   width: 100%;
+}
+
