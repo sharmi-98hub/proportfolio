@@ -1,37 +1,29 @@
-.hero-section{
-           padding: 100px 0;
-          
-        }
-body{
-   background-image: url(https://www.bitdegree.org/learn/storage/media/images/57bb1705-3ac9-41e3-9e97-37d4ee5771ac.o.jpg);
-   color: rgb(243, 241, 242);
-}
-#home{
-   height: 100vh;
-   width: 100%;
-   font-family:'Gill Sans';
+body {
+  background-image: url(https://www.bitdegree.org/learn/storage/media/images/57bb1705-3ac9-41e3-9e97-37d4ee5771ac.o.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: #f3f1f2;
+  margin-top: 70px; /* To offset fixed navbar */
 }
 
-#about{
-   height: 70vh;
-   width: 100%;
+.hero-section {
+  padding-top: 100px;
+  padding-bottom: 60px;
 }
-#skills{
-   height: 70vh;
-   width: 100%;
+
+section {
+  padding-top: 80px;
+  padding-bottom: 60px;
 }
-#projects{
-   height: 100vh;
-   width: 100%;
+
+.foote {
+  background-color: #121f33;
 }
-.foote{
-   background-color: rgb(18, 31, 51);
+
+.navbar .nav-link {
+  color: white !important;
 }
-.foot{
-   display:flex;
-   gap:150px;
-   justify-content: center;
-}
-.clr{
-   color: rgb(51, 44, 77);
+
+.card p {
+  margin-bottom: 0;
 }
